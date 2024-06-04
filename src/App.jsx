@@ -56,7 +56,7 @@ let [products, setProducts] = useState([
     // navbar
     <div className="container-fluid">
       <nav className="navbar bg-black rounded">
-        <span className="text-white ms-2 fs-4">Hello:KFC</span>
+        <span className="text-white ms-2 fs-4">KFC</span>
         <form className="container-fluid justify-content-end">
           <button
             type="button"
